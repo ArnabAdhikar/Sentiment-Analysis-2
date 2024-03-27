@@ -1,0 +1,4 @@
+cleantext==1.1.4
+pandas==2.2.1
+streamlit==1.31.1
+textblob==0.18.0.post0
